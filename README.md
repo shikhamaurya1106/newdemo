@@ -1,3 +1,3 @@
-this is the first demo
+This is the first git repo
 <br>
 author: shikha maurya
